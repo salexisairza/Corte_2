@@ -35,7 +35,7 @@ public class ejercicio3
 	  for (columna = 0; columna < 6; columna++)
 	  {
 		Console.Write("{0,9:D}   ", num[fila][columna]);
-		Thread.Sleep(500); // retardo de medio segundo
+		Thread.Sleep(500); 
 	  }
 	}
   }
